@@ -1,6 +1,8 @@
 # **AI Assistant Backend** 🧠🎙️  
 
-An AI-powered backend for a **real-time voice assistant** that transcribes speech to text and responds with AI-generated messages. This project supports **user authentication** and **chat history storage**. Tech stack includes Next.js, TypeScript, .NET, HTML, and CSS.
+An AI-powered full stack application for a **real-time voice assistant** that transcribes speech to text and responds with AI-generated messages. This project supports **user authentication** and **chat history storage**. Tech stack includes Next.js, TypeScript, .NET, HTML, and CSS.
+
+# Note: In Progress 
 
 ## **Features**  
 - **User Authentication**: Secure login and registration using JWT.  
